@@ -1,1 +1,1 @@
-Currently looking for a job in Bratislava, depending on circumstances and team needs in areas of frontend, CI/CD, Docker, documentation, Ansible, support and similar. Open to ideas.
+Currently looking for a job in Slovakia: Bratislava/Piešťany/Nové Mesto nad Váhom/Trenčín, depending on circumstances and team needs in areas of CI/CD, Docker, documentation, Ansible, support and similar. Open to ideas.
